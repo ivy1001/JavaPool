@@ -7,12 +7,15 @@
     <groupId>com.example</groupId>
     <artifactId>Day00</artifactId>
     <version>1.0-SNAPSHOT</version>
+<<<<<<< HEAD
     <packaging>pom</packaging>
     <modules>
         <module>ex00</module>
         <module>ex01</module>
         <module>ex02</module>
     </modules>
+=======
+>>>>>>> a84ff871e7d58f2893a627efa02452b6f7e54e9c
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
